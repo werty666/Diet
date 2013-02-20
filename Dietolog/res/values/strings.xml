@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Диетолог</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button1name">Индекс</string>
+    <string name="button2name">Калории</string>
+    <string name="button3name">Диеты</string>
+    <string name="button4name">Расчет калорий</string>
+    <string name="textview1name">ДИЕТОЛОГ</string>
+    <string name="textview1namei">Введите Ваши данные</string>
+    <string name="textview2namei">Рост</string>
+    <string name="textview4namei">Возраст</string>
+    <string name="textview3namei">Вес</string>
+    <string name="button5name">О программе</string>
+    <string name="button6name">OK</string>
+    <string name="tex_tview7name">Результат</string>
+    <string name="text_view8">Количкство калорий на день</string>
+    <string name="text_view9">Идеальный вес</string>
+    <string name="text_view_d">Диеты</string>
+    <string name="table">Таблица калорий</string>
+    <string name="raschetka">Расчет калорийности блюд</string>
+
+</resources>
