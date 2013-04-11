@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dietolog1"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" 
+        >
+        <activity
+            android:name="com.example.dietolog1.MainActivity"
+            android:label="@string/app_name" 
+            android:theme="@style/HabraTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            
+        </activity>
+        
+        <activity android:name="index"/>
+        <activity android:name="kalorii1"/>
+        <activity android:name="dieti"/>
+        <activity android:name="raschet"/>        
+        <activity android:name="fructi"/>
+        <activity android:name="hleb"/>
+        <activity android:name="miaso"/>
+        <activity android:name="moloko"/>
+        <activity android:name="ovoshi"/>
+        <activity android:name="riba"/>
+        <activity android:name="sladkoe"/>
+        <activity android:name="fragment1"/>
+        <activity android:name="fragment2"/>
+        <activity android:name="druzi"/>
+        <provider android:name="MyContactsProvider"
+             android:authorities="ru.startandroid.providers.AdressBook"></provider>
+    </application>
+
+</manifest>

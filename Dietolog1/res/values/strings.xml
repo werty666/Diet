@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Диетолог</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button1name">Индекс</string>
+    <string name="button2name">Калории</string>
+    <string name="button3name">Диеты</string>
+    <string name="button4name">Меню</string>
+    <string name="text1">Введите Ваши данные</string>
+    <string name="text2">Рост</string>
+    <string name="text3">Вес</string>
+    <string name="text4">Возраст</string>
+    <string name="text5">Результат</string>
+    <string name="text6">Вес</string>
+    <string name="text7">Приговор</string>
+    <string name="text1_1">Калорийность блюд</string>
+    <string name="text1_2">Диеты</string>
+    <string name="text1_3">Расчет калорийности </string>
+    <string name="image1">Диета 1</string>
+    <string name="image2">Диета 2</string>
+    <string name="image3">Диета 3</string>
+    <string name="image4">Диета 4</string>
+    <string name="text">Ок</string>
+    <string name="hello">время</string>
+    
+    <string name="t1">Мясо</string>
+    <string name="t2">Хлебобулочные изделия</string>
+    <string name="t3">Овощи</string>
+    <string name="t4">Фрукты</string>
+    <string name="t5">Рыба</string>
+    <string name="t6">Сладости</string>
+    <string name="t7">Молочные изделия</string>
+
+<string name="r1">Продукт</string>
+<string name="r2">Граммы</string>
+<string name="r3">Добавить</string>
+<string name="r4">Просмотр</string>
+<string name="r5">Удалить</string>
+
+<string name="insert">Добавить</string>
+<string name="update">Обновить</string>
+<string name="delete">Удалить</string>
+
+<string name="druzi">Сязь с диетологом</string>
+</resources>

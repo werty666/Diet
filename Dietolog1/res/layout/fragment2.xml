@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#A55">
+     
+    <TextView
+        android:layout_width="222dp"
+        android:layout_height="fill_parent"
+        android:text=" 
+        
+ Завтрак:  Разводим столовую ложку меда 150 мл воды и добавляем 5-7 капель лимонного сока. Минут через 10-15 минут выпиваем чашку чая или кофе.	
+ 	
+ Обед:     Побалуйте себя вареной индейкой и любыми овощами (не более 500 грамм)	
+ 	
+ Ужин:     Отварите 150-200 грамм белокочанной капусты в 150 мл воды без соли в течение 15-20 минут. Готовый отвар выпейте в течение 30-40 минут.	
+		" />
+ 
+</LinearLayout>

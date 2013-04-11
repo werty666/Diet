@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5A4"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/ScrollView01"
+        android:layout_width="221dp"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/TextView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="
+1 день. Стакан отварного риса
+2 день. 5 яиц
+3 день. 5 картофелин в мундире
+4 день. 150 г обезжиренного творога
+5 день. 150 г куриной грудки
+6 день. 1-2 кг яблок, предпочтительно печеных.
+
+		" />
+
+    </ScrollView>
+
+</LinearLayout>
